@@ -1,3 +1,30 @@
 body {
+  background: #BBC7A4;
+}
 
+h1 {
+  color: #344416;
+font-size: 60px;
+   font-style: oblique;
+  font-weight: bold;
+  text-decoration: overline underline #5F6758 double 2px;
+  lettter-spacing: 10px;
+  text-shadow: 9px 5px 5px grey
+}
+
+h1: hover {
+  text-shadow : 20px 20px 5px grey
+}
+
+img{
+  width: 15%;
+   border-radius:50px; 
+  
+}
+
+img: hover {
+  width: 20%;
+  border: dotted 11px #5F6758;
+   border-radius:50px; 
+  
 }
